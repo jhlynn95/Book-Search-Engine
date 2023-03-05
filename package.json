@@ -18,5 +18,8 @@
   "dependencies": {
     "@apollo/client": "^3.7.9",
     "graphql": "^16.6.0"
+  },
+  "engines": {
+    "node": "16.18.0"
   }
 }
