@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "watch": "nodemon server.js"
+    "watch": "nodemon server.js  --ignore client"
   },
   "keywords": [],
   "author": "",
@@ -21,4 +21,5 @@
   "devDependencies": {
     "nodemon": "^2.0.3"
   }
+  
 }
